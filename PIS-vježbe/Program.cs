@@ -10,6 +10,7 @@ namespace PIS_vježbe
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("maqtea nema pojma");
         }
     }
 }
